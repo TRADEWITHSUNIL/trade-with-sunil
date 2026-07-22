@@ -1,1 +1,2 @@
-<img src="images/logo.png" alt="Logo" width="150">
+
+<link rel="icon" type="image/png" href="logo.png">
